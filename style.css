@@ -1,0 +1,20 @@
+body {
+    background-color:rgb(235, 194, 194);
+    font-family: 'raleway', sans-serif;
+    margin: 0;
+    width: 1600px;
+    text-align: center;
+    list-style-position: inside;
+
+
+    
+}
+
+h1,h2,h3 {
+    color:purple;
+}
+
+h4 {
+    color:rebeccapurple
+}
+
